@@ -1,0 +1,8 @@
+{
+  "name": "Sumatif koding terbaru",
+  "description": "Aplikasi Tes Sumatif Koding Kelas 5 SD Negeri 3 Loloan Timur lingkup materi Urutan Instruksi Logis dengan 25 soal Pilihan Ganda dan 5 Pilihan Ganda Kompleks Kategori, sinkronisasi Google Spreadsheet, unduh PDF, serta panel guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
